@@ -8,9 +8,9 @@
     },
     {
         "_class": "org.cloudfoundry.samples.music.domain.Album",
-        "artist": "The Beach Boys",
+        "artist": "The Beach Boys - Eknath",
         "title": "Pet Sounds",
-        "releaseYear": "1966",
+        "releaseYear": "2025",
         "genre": "Rock"
     },
     {
